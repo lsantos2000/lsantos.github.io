@@ -1,2 +1,2 @@
-# lsantos.github.io
- QRadar Ansible Workshop
+# qradar-ansible-workshop
+ qradar-ansible-workshop
